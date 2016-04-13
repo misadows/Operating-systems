@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+Release/
+Testing/
+Makefile
+*.cmake
+*.a
+*.so
+bin/
+.gdb_history
